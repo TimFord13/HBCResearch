@@ -23,31 +23,6 @@ The repository includes implementations of three distinct programming challenges
 * **Tic-Tac-Toe:** Tests game state management, GUI implementation, and Minimax AI logic.
 * **Dynamic Maze Race:** Tests complex pathfinding algorithms (Prim's, A*, Dijkstra) and recursion depth.
 
-## Repository Structure
-The codebase is organized by task. Inside each task folder, subdirectories distinguish between the two prompting conditions used in the baseline study.
-```text
-
-├── Task_1 <br>
-│<br>
-│ ├── Model_A/<br>
-│ │<br>
-│ │ ├── One_Shot/<br>
-│ │ └── Iterative/<br>
-│<br>
-│ ├── Model_B/<br>
-│ │<br>
-│ │ ├── One_Shot/<br>
-│ │ └── Iterative/<br>
-│<br>
-│ └── Model_C/<br>
-│ │<br>
-│ ├── One_Shot/<br>
-│ └── Iterative/<br>
-|
-├── Task_2 <br>
-|
-|...............................
-```
 
 --- 
 
